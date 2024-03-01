@@ -1,0 +1,8 @@
+{
+    "type": "arrival",
+    "code": "2001",
+    "time": "12:35:00",
+    "point": "departure AB",
+    "location": "gate C",
+    "status": "on-time"
+}
