@@ -41,7 +41,7 @@ ___
 * [departure-arrival-board](https://github.com/mspano-web/departure-arrival-board)
 * [mockup-terminal](https://github.com/mspano-web/mockup-terminal)
 
-* ___
+___
 
 ## Documentacion de soporte / Support documentation
 
